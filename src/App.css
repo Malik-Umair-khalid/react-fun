@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.bgb {
+
+  border: none !important;
+}
+
+.ula {
+  border-radius: 10px !important;
+}
+
+h1 {
+  background-color: #212529;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+}
